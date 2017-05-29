@@ -1,5 +1,5 @@
-# CBT.py
-Nairaland simple CBT exam in Python. 
+# Nairaland CBT
+Nairaland simple CBT in Python. 
 Although there are availability of different subjects-
 only a single file folder was created for the exam,
 I  mean the only feasible exam is  the "Nairaland Exam"
